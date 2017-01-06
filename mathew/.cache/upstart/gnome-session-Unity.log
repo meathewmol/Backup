@@ -1,0 +1,65 @@
+ERROR 2017-01-03 14:22:28 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-03 14:22:28 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-03 14:22:28 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:25957): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25957): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25957): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25957): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26013): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26013): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26013): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26013): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26047): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26047): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26047): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:26047): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1483606977911	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1483606977975	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1483606978018	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1483606978067	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1483606978176	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1483606978986	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1483606979306	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1483606980389	addons.xpi	ERROR	Attempted to load bootstrap scope from missing directory /home/mathew/.mozilla/firefox/31zclryc.default/extensions/firefox-hotfix@mozilla.org.xpi
+1483606980390	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is missing bootstrap method shutdown
+1483606980396	addons.manager	WARN	Exception calling callback: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isDirectory]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: getURIForResourceInFile :: line 1537"  data: no] Stack trace: getURIForResourceInFile()@resource://gre/modules/addons/XPIProvider.jsm:1537 < this.XPIProvider.callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4811 < this.XPIProvider.uninstallAddon()@resource://gre/modules/addons/XPIProvider.jsm:5089 < AddonWrapper.prototype.uninstall()@resource://gre/modules/addons/XPIProvider.jsm:7504 < uninstallHotfix/<()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/mathew/.mozilla/firefox/31zclryc.default/extensions/firefox-hotfix@mozilla.org.xpi!/bootstrap.js:93 < safeCall()@resource://gre/modules/AddonManager.jsm:188 < makeSafe/<()@resource://gre/modules/AddonManager.jsm:204 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750
+ERROR 2017-01-05 11:11:59 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-05 11:11:59 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-05 11:11:59 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-05 11:23:12 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-05 11:23:12 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-05 11:23:12 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (zeitgeist-datahub:2469): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+ERROR 2017-01-05 11:58:05 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-05 11:58:05 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-05 11:58:05 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-05 14:08:36 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-05 14:08:36 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-05 14:08:36 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-05 14:15:47 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-05 14:15:47 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-05 14:15:47 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-05 14:36:50 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-05 14:36:50 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-05 14:36:50 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(gnome-terminal:26579): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+(deja-dup-monitor:2756): GLib-CRITICAL **: Source ID 71 was not found when attempting to remove it
+
+(deja-dup-monitor:2756): GLib-CRITICAL **: Source ID 71 was not found when attempting to remove it
+
+** (zeitgeist-datahub:2469): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required

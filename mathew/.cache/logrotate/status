@@ -1,0 +1,20 @@
+logrotate state -- version 2
+"/home/mathew/.cache/upstart/indicator-printers.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/upstart-event-bridge.log" 2017-1-3-14:0:0
+"/home/mathew/.cache/upstart/im-config.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/update-notifier-cds.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/gnome-session-Unity.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/window-stack-bridge.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/indicator-power.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/gnome-keyring-gpg.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/hud.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/dbus.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/indicator-sound.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/indicator-session.log" 2017-1-3-14:0:0
+"/home/mathew/.cache/upstart/update-notifier-release.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/ssh-agent.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/unity7.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/indicator-bluetooth.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/gnome-keyring-ssh.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/unity-settings-daemon.log" 2017-1-3-14:14:57
+"/home/mathew/.cache/upstart/unity-panel-service.log" 2017-1-3-14:14:57

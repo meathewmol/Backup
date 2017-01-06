@@ -1,0 +1,4 @@
+
+** (process:1988): WARNING **: on_login1_manager_session_list_ready: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Cannot launch daemon, file not found or permissions invalid
+
+** (process:1988): WARNING **: on_login1_manager_session_list_ready: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Cannot launch daemon, file not found or permissions invalid

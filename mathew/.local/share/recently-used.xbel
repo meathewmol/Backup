@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mathew/Downloads/moth-balls-keep-snakes-away_d731c368d3991a0e.jpg" added="2017-01-05T09:44:02Z" modified="2017-01-05T09:45:10Z" visited="2017-01-05T09:44:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-05T09:45:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mathew/Downloads/MIT6_189IAP11_hw1.pdf" added="2017-01-06T11:40:29Z" modified="2017-01-06T11:40:29Z" visited="2017-01-06T11:40:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-06T11:40:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mathew/Desktop/HW" added="2017-01-06T11:41:54Z" modified="2017-01-06T11:41:54Z" visited="2017-01-06T11:41:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-06T11:41:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mathew/Desktop/HW/MIT6_189IAP11_hw1_written.pdf" added="2017-01-06T11:42:15Z" modified="2017-01-06T11:42:15Z" visited="2017-01-06T11:42:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-06T11:42:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mathew/Desktop/HW/MIT6_189IAP11_hw2_written.pdf" added="2017-01-06T11:42:31Z" modified="2017-01-06T11:42:31Z" visited="2017-01-06T11:42:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-06T11:42:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mathew/Desktop/HW/hangman_lib.py" added="2017-01-06T11:43:19Z" modified="2017-01-06T11:43:19Z" visited="2017-01-06T11:43:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-06T11:43:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mathew/Desktop/HW/nims.py" added="2017-01-06T11:43:34Z" modified="2017-01-06T11:43:34Z" visited="2017-01-06T11:43:35.128222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-01-06T11:43:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
